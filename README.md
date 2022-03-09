@@ -1,0 +1,2 @@
+# ycqbase.github.io
+blog
